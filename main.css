@@ -1,0 +1,73 @@
+/* Universal Styles */
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+/* Bootstrap Overrides */
+
+.jumbotron {
+  background-image: url("img/Background/black-and-white-ocean.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: 	#696969;
+  margin-top: 50px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+
+}
+
+#showcase {
+  margin-top: 50px;
+}
+
+/* About Section - Grid System */
+
+.left-col {
+  font-size: 52px;
+}
+
+.right-col {
+  font-size: 24px;
+}
+
+blockquote {
+  font-size: 34px;
+  line-height: 1.8;
+}
+
+.translation {
+  color: steelblue;
+}
+
+.profile-picture {
+  width: 50%;
+}
+
+.btn {
+  margin-bottom: 40px;
+}
+
+/* Contact - Grid System */
+
+#contact p {
+  font-size: 24px;
+}
+
+/* Portfolio & Pages */
+.image {
+  padding: 20px;
+
+}
+
+
+
+/* text hover */
