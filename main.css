@@ -56,9 +56,23 @@ blockquote {
   margin-bottom: 40px;
 }
 
+.btn-primary {
+  opacity: 0.7;
+}
+
+#gallery h2 {
+  margin-top: 80px;
+}
+
+#accreditation,
+#index-portfolio,
+#index-contact {
+  margin-top: 60px;
+}
+
 /* Contact - Grid System */
 
-#contact p {
+#index-contact p {
   font-size: 24px;
 }
 
@@ -68,6 +82,18 @@ blockquote {
 
 }
 
+.btn-lg {
+  padding: 10px 100px;
+}
 
 
 /* text hover */
+
+
+
+/* Screen size */
+@media only screen and (max-width: 768px) {
+  blockquote {
+    font-size: 20px;
+  }
+}
