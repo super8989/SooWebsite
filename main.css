@@ -20,6 +20,11 @@ h2 {
   margin-top: 50px;
 }
 
+a {
+  color: #696969;
+  text-decoration: none;
+}
+
 .navbar {
   margin-bottom: 0px;
 
