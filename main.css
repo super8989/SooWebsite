@@ -95,6 +95,11 @@ blockquote {
 /* text hover */
 
 
+/* gallery.html */
+.gallery-image-zoom {
+  width: 25%;
+}
+
 
 /* Screen size */
 @media only screen and (max-width: 768px) {
